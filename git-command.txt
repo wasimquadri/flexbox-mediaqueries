@@ -1,0 +1,7 @@
+1.git init
+2.git add .
+3.git commit -m "first commit"
+4.git remote add origin https://github.com/wasimquadri/flexbox-mediaqueries.git
+5.git remote set -url origin https://wasimquadri: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@github.com/wasimquadri/flexbox-mediaqueries.git
+//token(immutable)
+6.git push --set upstream origin master
